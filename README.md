@@ -1,5 +1,7 @@
 # Power Bi Projects
-### Olá, Seja Bem-vindo ao meu Portifólio de Dashboards com Dados Disponibilizados pelo Curso de Power Bi para Analíse de Dados da Data Science Academy
+### Olá, Seja Bem-vindo ao meu Portifólio de Dashboards
+
+#### Dados Disponibilizados pelo Curso de Power Bi da Data Science Academy
 
 ### 1. Analise de Dados Reais Da Bolsa de Valores de NY Extraidos do Site StockMarket.com
 ![Projeto De Dashboard Analise de Dados Reais do Mercado Financeiro Bolsa de Valores de NY_page-0001](https://github.com/Erick-Dellevedove/Power-Bi-Projects/assets/140541961/9d2c0fa5-71e1-4f83-b0bc-2a808eb3f123)
